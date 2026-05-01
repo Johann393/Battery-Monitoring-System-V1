@@ -6,6 +6,9 @@ Este projeto realiza a medição da tensão e da corrente utilizando o sensor IN
 
 Quando a temperatura de uma das duas células ultrapassa um determinado limiar (threshold), um buzzer é acionado como mecanismo de alerta.
 
+<img width="867" height="647" alt="image" src="https://github.com/user-attachments/assets/1de3c8cd-b232-4d75-a8cb-32c14abadd69" />
+
+
 ## Materiais
 Para a implementação deste projeto, foram utilizados os seguintes componentes: duas células de bateria de 4 V com suporte (shell), dois sensores de corrente e tensão INA219 current sensor module, dois termistores NTC 222, dois resistores de 10 kΩ, dois resistores de 1 kΩ, um buzzer, um Arduino Uno R3, além de uma protoboard e cabos jumpers para as conexões.
 
